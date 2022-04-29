@@ -1,0 +1,3 @@
+[submodule "react-note-app"]
+	path = react-note-app
+	url = git@github.com:Shivam8452/react-note-app.git
